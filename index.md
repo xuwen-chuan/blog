@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 ## 个人介绍
 
 我出生于1999年，本科毕业，现于北京某互联网大厂工作，有女朋友，未婚。
